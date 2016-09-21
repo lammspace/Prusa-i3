@@ -3,7 +3,7 @@
 
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
-#*.php text
+*.ini text
 
 # Keep these files from archive/exports, mainly from production.
 .gitignore     export-ignore
